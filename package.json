@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/timezones",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "A small library for getting time zone information and associated countries.",
 	"main": "index.js",
 	"type": "module",
